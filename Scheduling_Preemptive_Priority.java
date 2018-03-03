@@ -68,7 +68,7 @@ class SchedulingFunctionsClass implements Comparable<SchedulingFunctionsClass>
 	//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 }
 //- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-class Scheduling_PP
+class Scheduling_Preemptive_Priority
 {
 	public static void main(String args[])
 	{
