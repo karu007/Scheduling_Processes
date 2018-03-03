@@ -64,7 +64,7 @@ class SchedulingFunctionsClass implements Comparable<SchedulingFunctionsClass>
 	//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 }
 //- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-class Scheduling
+class Scheduling_FCFS
 {
 	public static void main(String args[])
 	{
